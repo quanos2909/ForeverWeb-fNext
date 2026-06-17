@@ -1,0 +1,9 @@
+- Optimization: Recoded some components
+- Al: Enabled Al features!
+- Opitimization: Removing leftovers from previous version, FWebDevKit available for migration
+- Optimization: Rebuild WorldHub
+- Optimization: Rebuild some dialogs
+- New: Easter egg in About page
+- New: Page to help user enable Adblocking
+- Fix: OperatorV crashing at some moment
+- Fix: Some Vcore problems
